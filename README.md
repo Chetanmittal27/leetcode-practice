@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0198-house-robber) |
 ## Prefix Sum
 |  |
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
