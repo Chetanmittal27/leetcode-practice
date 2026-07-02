@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0198-house-robber) |
 | [0523-continuous-subarray-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0525-contiguous-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0525-contiguous-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0525-contiguous-array) |
 ## Breadth-First Search
 |  |
 | ------- |
