@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0198-house-robber) |
+| [0485-max-consecutive-ones](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
