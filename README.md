@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0263-ugly-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0263-ugly-number) |
 | [0523-continuous-subarray-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 ## Recursion
 |  |
