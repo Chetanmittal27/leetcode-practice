@@ -14,7 +14,8 @@ public:
         }
 
 
-        queue<tuple<int,int,int>>q;
+        priority_queue<tuple<int,int,int> , vector<tuple<int,int,int>> , greater<tuple<int,int,int>>>q;
+
         q.push({0 , -1 , 1});
 
         int mini = INT_MAX;
@@ -23,14 +24,16 @@ public:
 
         while(!q.empty()){
 
-            auto [wt , u , v] = q.front();
+            auto [wt , u , v] = q.top();
             q.pop();
+
+            if(vis[v]) continue;
+
+            vis[v] = 1;
 
             if(u != -1){
                 mini = min(mini , wt);
             }
-
-            vis[v] = 1;
 
             for(auto it : adj[v]){
                 int adjCity = it.first;
