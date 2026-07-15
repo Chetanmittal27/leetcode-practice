@@ -3,18 +3,10 @@ public:
 
     int GCD(int m , int x){
 
-        if(m == 0) return x;
-        if(x == 0) return m;
-
-        while(m != x){
-
-            if(m > x){
-                m = m - x;
-            }
-
-            else{
-                x = x - m;
-            }
+        while(x > 0){
+            int temp = m % x;
+            m = x;
+            x = temp;
         }
 
         return m;
