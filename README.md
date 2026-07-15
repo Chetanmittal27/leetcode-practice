@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0064-minimum-path-sum) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
