@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0038-count-and-say) |
 ## Sorting
 |  |
