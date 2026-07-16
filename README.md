@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1929-concatenation-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -111,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1929-concatenation-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,8 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0038-count-and-say) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
