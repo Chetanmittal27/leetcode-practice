@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0038-count-and-say) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -180,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0797-all-paths-from-source-to-target) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
