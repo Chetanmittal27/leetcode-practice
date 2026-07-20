@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1260-shift-2d-grid](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1929-concatenation-of-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0064-minimum-path-sum) |
+| [1260-shift-2d-grid](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1260-shift-2d-grid) |
 ## Number Theory
 |  |
 | ------- |
