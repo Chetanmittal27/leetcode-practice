@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0064-minimum-path-sum) |
+| [0090-subsets-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0120-triangle) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0090-subsets-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1310-xor-queries-of-a-subarray) |
 ## Union-Find
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0797-all-paths-from-source-to-target) |
 ## Greedy
 |  |
