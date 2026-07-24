@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0494-target-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0797-all-paths-from-source-to-target) |
 ## Greedy
 |  |
