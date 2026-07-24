@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0038-count-and-say) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sorting
 |  |
 | ------- |
