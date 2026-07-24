@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
