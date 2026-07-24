@@ -3,25 +3,19 @@ public:
     int removeDuplicates(vector<int>& nums) {
         
         int n = nums.size();
-        map<int,int>mpp;
+        
+        if(n <= 2) return n;
 
-        for(int i = 0; i < n; i++){
-            mpp[nums[i]]++;
-        }
+        int i = 2;
 
-        int k = 0;
+        for(int j = 2; j < n; j++){
 
-        for(auto it : mpp){
-            int val = it.first;
-            int count = it.second;
-
-            for(int i = 0; i < (count <= 2 ? count : 2); i++){
-
-                nums[k] = val;
-                k++;
+            if(nums[j] != nums[i - 2]){
+                nums[i] = nums[j];
+                i++;
             }
         }
 
-        return k;
+        return i;
     }
 };
