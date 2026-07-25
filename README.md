@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0797-all-paths-from-source-to-target](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0841-keys-and-rooms) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1129-shortest-path-with-alternating-colors) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Search
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0841-keys-and-rooms) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1129-shortest-path-with-alternating-colors) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Enumeration
 |  |
