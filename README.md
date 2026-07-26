@@ -258,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
