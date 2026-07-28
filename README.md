@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0264-ugly-number-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0264-ugly-number-ii) |
+| [0383-ransom-note](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0038-count-and-say) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0383-ransom-note) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sorting
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
