@@ -33,12 +33,7 @@ public:
         vector<int>vis(n , 0);
         int count = 0;
 
-        for(int i = 0; i < n; i++){
-
-            if(!vis[i]){
-                dfs(connections , adj , vis , i , count);
-            }
-        }
+        dfs(connections , adj , vis , 0 , count);
 
         return count;
     }
