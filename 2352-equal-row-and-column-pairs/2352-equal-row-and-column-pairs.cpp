@@ -6,25 +6,26 @@ public:
 
         int count = 0;
 
-        vector<vector<int>>gridColumns(n);
+        map<vector<int> , int>mpp;
+
+        for(auto row : grid){
+            mpp[row]++;;
+        }
 
         for(int i = 0; i < n; i++){
 
+            vector<int>temp;
+
             for(int j = 0; j < n; j++){
+                
+                temp.push_back(grid[j][i]);
+            }
 
-                gridColumns[j].push_back(grid[i][j]);
+            if(mpp.find(temp) != mpp.end()){
+                count = count + mpp[temp];
             }
         }
 
-        for(auto row : grid){
-
-            for(auto col : gridColumns){
-
-                if(row == col){
-                    count++;
-                }
-            }
-        }
 
         return count;
     }
