@@ -1,0 +1,34 @@
+class Solution {
+public:
+
+    int solve(int idx , int amount , vector<int>& coins , vector<vector<int>>& dp){
+
+        if(amount == 0){
+            return 1;
+        }
+
+        if(amount < 0 || idx == coins.size()){
+            return 0;
+        }
+
+        if(dp[idx][amount] != -1){
+            return dp[idx][amount];
+        }
+
+        // take
+        int take = solve(idx , amount - coins[idx] , coins , dp);
+
+        // not take
+        int notTake = solve(idx + 1 , amount , coins , dp);
+
+        dp[idx][amount] = take + notTake;
+        return dp[idx][amount];
+    }
+
+
+    int change(int amount, vector<int>& coins) {
+
+        vector<vector<int>>dp(coins.size() , vector<int>(amount + 1 , -1));
+        return solve(0 , amount , coins , dp);
+    }
+};
