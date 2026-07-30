@@ -6,22 +6,21 @@ public:
 
         int count = 0;
 
+        vector<vector<int>>gridColumns(n);
+
         for(int i = 0; i < n; i++){
 
             for(int j = 0; j < n; j++){
 
-                bool isCheck = true;
+                gridColumns[j].push_back(grid[i][j]);
+            }
+        }
 
-                for(int k = 0; k < n; k++){
+        for(auto row : grid){
 
-                    if(grid[k][j] != grid[i][k]){
+            for(auto col : gridColumns){
 
-                        isCheck = false;
-                        break;
-                    }
-                }
-
-                if(isCheck){
+                if(row == col){
                     count++;
                 }
             }
