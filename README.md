@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0934-shortest-bridge](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0934-shortest-bridge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1260-shift-2d-grid) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0797-all-paths-from-source-to-target](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0841-keys-and-rooms) |
+| [0934-shortest-bridge](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0934-shortest-bridge) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0797-all-paths-from-source-to-target](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0841-keys-and-rooms) |
+| [0934-shortest-bridge](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0934-shortest-bridge) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0064-minimum-path-sum) |
+| [0934-shortest-bridge](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0934-shortest-bridge) |
 | [1260-shift-2d-grid](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
