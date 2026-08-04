@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0322-coin-change) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0383-ransom-note](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0383-ransom-note) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Counting Sort
@@ -361,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0877-stone-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
