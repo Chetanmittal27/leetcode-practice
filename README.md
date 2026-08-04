@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
+| [3731-find-missing-elements](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
+| [3731-find-missing-elements](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Breadth-First Search
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Binary Search Tree
