@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0455-assign-cookies) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0542-01-matrix) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0542-01-matrix) |
 | [0934-shortest-bridge](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
