@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0877-stone-game) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0383-ransom-note) |
+| [0516-longest-palindromic-subsequence](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
