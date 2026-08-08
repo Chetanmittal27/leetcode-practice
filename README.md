@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [0934-shortest-bridge](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0934-shortest-bridge) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -259,12 +261,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -398,4 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0169-majority-element) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
