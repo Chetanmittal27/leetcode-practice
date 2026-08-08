@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [0934-shortest-bridge](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0934-shortest-bridge) |
+| [0938-range-sum-of-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Hash Table
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
