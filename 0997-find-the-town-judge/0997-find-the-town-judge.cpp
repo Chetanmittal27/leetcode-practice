@@ -4,9 +4,9 @@ public:
         
         vector<vector<int>>adj(n+1);
 
-        for(auto arr : trust){
-            int u = arr[0];
-            int v = arr[1];
+        for(auto edge : trust){
+            int u = edge[0];
+            int v = edge[1];
 
             adj[v].push_back(u);
         }
@@ -21,9 +21,9 @@ public:
 
         if(judge == -1) return -1;
 
-        for(auto arr : trust){
-            int u = arr[0];
-            int v = arr[1];
+        for(auto edge : trust){
+            int u = edge[0];
+            int v = edge[1];
 
             if(u == judge){
                 return -1;
