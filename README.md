@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0877-stone-game) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0525-contiguous-array) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0268-missing-number) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1310-xor-queries-of-a-subarray) |
 ## Union-Find
@@ -353,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
