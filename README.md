@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0202-happy-number) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0049-group-anagrams) |
