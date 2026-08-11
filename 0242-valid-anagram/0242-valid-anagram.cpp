@@ -2,10 +2,20 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         
-        sort(s.begin() , s.end());
-        sort(t.begin() , t.end());
+        vector<int>temp(26 , 0);
 
-        if(s == t) return true;
-        return false;
+        for(auto ch : s){
+            temp[ch - 'a']++;
+        }
+
+        for(auto ch : t){
+            temp[ch - 'a']--;
+        }
+
+        for(int i = 0; i < 26; i++){
+            if(temp[i] != 0) return false;
+        }
+
+        return true;
     }
 };
