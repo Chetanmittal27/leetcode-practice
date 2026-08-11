@@ -4,17 +4,32 @@ public:
         
         int n = nums.size();
 
-        unordered_map<int,int>mpp;
+        vector<pair<int,int>>temp;
 
         for(int i = 0; i < n; i++){
+            temp.push_back({nums[i] , i});
+        }
 
-            int remaining = target - nums[i];
+        sort(temp.begin() , temp.end());
 
-            if(mpp.find(remaining) != mpp.end()){
-                return {i , mpp[remaining]};
+        int left = 0 , right = n - 1;
+
+        while(left < right){
+
+            int a = temp[left].first;
+            int b = temp[right].first;
+
+            if((a + b) == target){
+                return {temp[left].second , temp[right].second};
             }
 
-            mpp.insert({nums[i] , i});
+            else if((a + b) < target){
+                left++;
+            }
+
+            else{
+                right--;
+            }
         }
 
         return {-1};
