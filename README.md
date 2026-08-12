@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1615-maximal-network-rank](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1615-maximal-network-rank) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Enumeration
 |  |
