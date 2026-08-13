@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0997-find-the-town-judge) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Stack
 |  |
