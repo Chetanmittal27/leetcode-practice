@@ -6,25 +6,33 @@ public:
 
         int mini = INT_MIN , maxi = INT_MAX;
 
+        sort(nums.begin() , nums.end());
+
         for(int i = 0; i < n-2; i++){
 
-            for(int j = i+1; j < n-1; j++){
+            int l = i + 1 , r = n - 1;
 
-                for(int k = j+1; k < n; k++){
+            while(l < r){
 
-                    int sum = nums[i] + nums[j] + nums[k];
+                int sum = nums[i] + nums[l] + nums[r];
 
-                    if(sum == target){
-                        return target;
+                if(sum == target){
+                    return target;
+                }
+
+                else if(sum < target){
+                    if (mini == INT_MIN || target - sum < target - mini) {
+                        mini = sum;
                     }
+                    l++;
+                }
 
-                    else if(sum > target && sum < maxi){
+                else{
+                    if(maxi == INT_MAX || sum - target < maxi - target){
                         maxi = sum;
                     }
 
-                    else if(sum < target && sum > mini){
-                        mini = sum;
-                    }
+                    r--;
                 }
             }
         }
