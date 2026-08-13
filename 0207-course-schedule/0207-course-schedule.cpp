@@ -5,7 +5,6 @@ public:
         vector<vector<int>>adj(numCourses);
 
         vector<int>inDegree(numCourses , 0);
-
         for(auto &edge : prerequisites){
 
             int u = edge[0];
