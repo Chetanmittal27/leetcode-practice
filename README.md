@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0389-find-the-difference) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1310-xor-queries-of-a-subarray) |
 ## Union-Find
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0274-h-index) |
+| [0389-find-the-difference](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
