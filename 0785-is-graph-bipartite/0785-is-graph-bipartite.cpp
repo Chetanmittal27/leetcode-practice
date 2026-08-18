@@ -1,18 +1,22 @@
 class Solution {
 public:
 
-    bool dfs(vector<vector<int>>& graph , vector<int>& vis , int node , int color){
-        vis[node] = color;
+    bool dfs(vector<vector<int>>& graph , int node , vector<int>& color , int curr){
+
+        color[node] = curr;
 
         for(auto v : graph[node]){
-            if(vis[v] == -1){
-                if(!dfs(graph , vis , v , 1 - color)){
+
+            if(color[v] == -1){
+                if(!dfs(graph , v , color , 1 - color[node])){
                     return false;
                 }
             }
 
-            else if(vis[v] == color){
-                return false;
+            else{
+                if(color[v] == curr){
+                    return false;
+                }
             }
         }
 
@@ -24,13 +28,12 @@ public:
         
         int n = graph.size();
 
-        vector<int>vis(n , -1);
+        vector<int>color(n , -1);
 
         for(int i = 0; i < n; i++){
 
-            if(vis[i] == -1){
-
-                if(!dfs(graph , vis , i , 0)){
+            if(color[i] == -1){
+                if(!dfs(graph , i , color , 0)){
                     return false;
                 }
             }
