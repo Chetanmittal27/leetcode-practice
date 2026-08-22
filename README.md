@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
