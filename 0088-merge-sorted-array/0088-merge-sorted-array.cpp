@@ -31,6 +31,7 @@ public:
 
 
         for(int i = 0; i < m+n; i++){
+
             nums1[i] = temp[i];
         }
     }
