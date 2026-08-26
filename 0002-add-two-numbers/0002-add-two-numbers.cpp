@@ -20,7 +20,7 @@ public:
         ListNode* dummyNode = new ListNode(-1);
         ListNode* temp = dummyNode;
 
-        while(temp1 != NULL || temp2 != NULL || carry != 0){
+        while(temp1 != NULL || temp2 != NULL || carry > 0){
 
             int sum = carry;
 
@@ -34,7 +34,7 @@ public:
                 temp2 = temp2 -> next;
             }
 
-            
+
             ListNode* x = new ListNode(sum % 10);
             temp -> next = x;
             temp = temp -> next;
