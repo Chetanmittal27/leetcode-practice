@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2405-optimal-partition-of-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2405-optimal-partition-of-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2785-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
