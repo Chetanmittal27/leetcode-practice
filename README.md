@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2405-optimal-partition-of-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2405-optimal-partition-of-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2785-sort-vowels-in-a-string) |
