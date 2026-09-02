@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0877-stone-game](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0912-sort-an-array) |
 | [0934-shortest-bridge](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0934-shortest-bridge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0994-rotting-oranges) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0692-top-k-frequent-words](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0274-h-index) |
+| [0912-sort-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Topological Sort
 |  |
@@ -601,4 +606,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
