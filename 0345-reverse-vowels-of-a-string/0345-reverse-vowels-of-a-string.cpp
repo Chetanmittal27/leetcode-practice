@@ -4,31 +4,21 @@ public:
         
         int n = s.length();
 
-        vector<char>arr;
+        int left = 0 , right = n - 1;
 
-        for(int i = 0; i < n; i++){
+        while(left < right){
 
-            char ch = tolower(s[i]);
-
-            if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u'){
-
-                arr.push_back(s[i]);
+            while(left < right && string("aeiou").find(tolower(s[left])) == string::npos){
+                left++;
             }
-        }
 
-        reverse(arr.begin() , arr.end());
-
-        int j = 0;
-
-        for(int i = 0; i < n; i++){
-
-            char ch = tolower(s[i]);
-
-            if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u'){
-
-                s[i] = arr[j];
-                j++;
+            while(left < right && string("aeiou").find(tolower(s[right])) == string::npos){
+                right--;
             }
+
+            swap(s[left] , s[right]);
+            left++;
+            right--;
         }
 
         return s;
