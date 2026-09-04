@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Linked List
 |  |
