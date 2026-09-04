@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2405-optimal-partition-of-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2405-optimal-partition-of-string) |
@@ -621,4 +623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0912-sort-an-array) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
