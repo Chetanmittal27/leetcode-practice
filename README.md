@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0547-number-of-provinces) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0797-all-paths-from-source-to-target) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0310-minimum-height-trees) |
 ## Minimax
 |  |
 | ------- |
