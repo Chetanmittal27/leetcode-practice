@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3903-smallest-stable-index-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Linked List
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2405-optimal-partition-of-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2405-optimal-partition-of-string) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2785-sort-vowels-in-a-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
