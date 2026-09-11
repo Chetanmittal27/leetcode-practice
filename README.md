@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1310-xor-queries-of-a-subarray) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0997-find-the-town-judge) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2405-optimal-partition-of-string) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2405-optimal-partition-of-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2405-optimal-partition-of-string) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2785-sort-vowels-in-a-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2785-sort-vowels-in-a-string) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0692-top-k-frequent-words) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Counting Sort
 |  |
