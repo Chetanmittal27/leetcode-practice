@@ -4,27 +4,30 @@ public:
         
         int n = nums.size();
 
-        unordered_map<int , int>mpp;
+        sort(nums.begin() , nums.end());
 
-        int count = 0;
+        int ans = 0;
 
-        for(int i = 0; i < n; i++){
+        int l = 0 , r = n-1;
 
-            int remaining = k - nums[i];
+        while(l < r){
+            int sum = nums[l] + nums[r];
 
-            if(mpp.find(remaining) != mpp.end()){
-                count++;
-                mpp[remaining]--;
-                if(mpp[remaining] == 0){
-                    mpp.erase(remaining);
-                }
+            if(sum == k){
+                ans++;
+                l++;
+                r--;
+            }
+
+            else if(sum > k){
+                r--;
             }
 
             else{
-                mpp[nums[i]]++;
+                l++;
             }
         }
 
-        return count;
+        return ans;
     }
 };
