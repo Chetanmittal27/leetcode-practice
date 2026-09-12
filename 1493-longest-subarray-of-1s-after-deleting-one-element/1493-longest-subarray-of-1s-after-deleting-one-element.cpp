@@ -6,45 +6,70 @@ public:
 
         int count0 = 0;
 
-        unordered_set<int>st;
-
         for(int i = 0; i < n; i++){
 
             if(nums[i] == 0){
                 count0++;
-                st.insert(i);
             }
         }
 
         if(count0 == n) return 0;
-        if(count0 == 0) return n - 1;
+        if(count0 == 0) return n-1;
 
-        int ans = 0;
+        vector<int>prefixOnes(n , 0);
+        if(nums[0] == 0) prefixOnes[0] = 0;
+        else{
+            prefixOnes[0] = 1;
+        }
 
-        for(auto it : st){
+        for(int i = 1; i < n; i++){
 
-            int count = 0;
-
-            for(int j = 0; j < n; j++){
-
-                if(j == it) continue;
-
-                if(nums[j] == 1){
-                    count++;
-                }
-
-                else{
-                    ans = max(ans , count);
-                    count = 0;
-                }
+            if(nums[i] == 0){
+                prefixOnes[i] = 0;
             }
 
-            if(count > 0){
-                ans = max(ans , count);
+            else{
+                prefixOnes[i] = prefixOnes[i-1] + 1;
             }
         }
 
-        return ans;
 
+        vector<int>suffixOnes(n , 0);
+
+        if(nums[n-1] == 0) suffixOnes[n-1] = 0;
+        else{
+            suffixOnes[n-1] = 1;
+        }
+
+        for(int i = n-2; i >= 0; i--){
+
+            if(nums[i] == 0){
+                suffixOnes[i] = 0;
+            }
+
+            else{
+                suffixOnes[i] = suffixOnes[i+1] + 1;
+            }
+        }
+
+        
+        int ans = 0;
+
+        for(int i = 0; i < n; i++){
+
+            int total = 0;
+
+            if(i > 0){
+                total = total + prefixOnes[i-1];
+            }
+
+            if(i < n-1){
+                total = total + suffixOnes[i+1];
+            }
+
+            ans = max(ans , total);
+        }
+
+        return ans;
     }
 };
