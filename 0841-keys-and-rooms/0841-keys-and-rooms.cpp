@@ -19,9 +19,8 @@ public:
         int n = rooms.size();
 
         vector<int>vis(n , 0);
-
+        
         dfs(rooms , vis , 0);
-
 
         for(int i = 0; i < n; i++){
             if(!vis[i]){
