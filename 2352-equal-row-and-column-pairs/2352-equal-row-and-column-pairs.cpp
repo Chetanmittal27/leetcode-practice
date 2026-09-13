@@ -4,29 +4,25 @@ public:
         
         int n = grid.size();
 
-        int count = 0;
-
-        map<vector<int> , int>mpp;
-
-        for(auto row : grid){
-            mpp[row]++;;
-        }
+        int ans = 0;
 
         for(int i = 0; i < n; i++){
 
             vector<int>temp;
 
             for(int j = 0; j < n; j++){
-                
+
                 temp.push_back(grid[j][i]);
             }
 
-            if(mpp.find(temp) != mpp.end()){
-                count = count + mpp[temp];
+            for(auto v : grid){
+
+                if(temp == v){
+                    ans++;
+                }
             }
         }
 
-
-        return count;
+        return ans;
     }
 };
