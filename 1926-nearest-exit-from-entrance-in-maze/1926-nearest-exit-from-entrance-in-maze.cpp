@@ -1,17 +1,15 @@
 class Solution {
 public:
     int nearestExit(vector<vector<char>>& maze, vector<int>& entrance) {
-        
+
         int m = maze.size();
         int n = maze[0].size();
-
+        
+        queue<tuple<int,int,int>>q;
         int start = entrance[0];
         int end = entrance[1];
 
-        queue<tuple<int , int , int>>q;
         q.push({start , end , 0});
-
-        int ans = -1;
 
         vector<vector<int>>vis(m , vector<int>(n , 0));
         vis[start][end] = 1;
@@ -24,10 +22,13 @@ public:
             auto [row , col , steps] = q.front();
             q.pop();
 
-            if((row == 0 || row == m-1 || col == 0 || col == n-1)  &&  !(row == start && col == end)){
+            if(row != start || col != end){
 
-                return steps;
+                if((row == 0 || row == m-1) || (col == 0 || col == n-1)){
+                    return steps;
+                }
             }
+
 
             for(int i = 0; i < 4; i++){
 
@@ -42,9 +43,8 @@ public:
                     }
                 }
             }
-
         }
 
-        return ans;
+        return -1;
     }
 };
