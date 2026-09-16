@@ -1,36 +1,34 @@
 class Solution {
 public:
-
     string smallestSubsequence(string s) {
         
         int n = s.length();
 
-        vector<int>lastIdx(26 , -1);
+        vector<bool>vis(26 , false);
+        vector<int>temp(26 , -1);
 
         for(int i = 0; i < n; i++){
-            lastIdx[s[i] - 'a'] = i;
+            temp[s[i] - 'a'] = i;
         }
 
-        string str = "";
-        vector<bool>included(26 , false);
+        string ans = "";
 
         for(int i = 0; i < n; i++){
 
-            if(included[s[i] - 'a']){
+            if(vis[s[i] - 'a']){
                 continue;
             }
 
+            while(!ans.empty() && s[i] < ans.back() && temp[ans.back() - 'a'] > i){
 
-            while(!str.empty()  &&  str.back() > s[i]  &&  lastIdx[str.back() - 'a'] > i){
-
-                included[str.back() - 'a'] = false;
-                str.pop_back();
+                vis[ans.back() - 'a'] = false;
+                ans.pop_back();
             }
 
-            str.push_back(s[i]);
-            included[s[i] - 'a'] = true;
+            vis[s[i] - 'a'] = true;
+            ans.push_back(s[i]);
         }
 
-        return str;
+        return ans;
     }
 };
