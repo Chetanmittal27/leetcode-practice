@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
