@@ -4,14 +4,16 @@ public:
         
         int n = nums.size();
 
-        int sum = 0 , maxi = INT_MIN;
+        int maxi = INT_MIN;
+
+        int sum = 0;
 
         for(int i = 0; i < n; i++){
 
             sum = sum + nums[i];
 
             if(sum > maxi){
-                maxi = sum;
+                maxi = max(sum , maxi);
             }
 
             if(sum < 0){
