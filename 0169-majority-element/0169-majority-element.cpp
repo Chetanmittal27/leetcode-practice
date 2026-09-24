@@ -4,20 +4,35 @@ public:
         
         int n = nums.size();
 
-        unordered_map<int , int>mpp;
+        int count = 0 , x = -1;
 
         for(int i = 0; i < n; i++){
-            mpp[nums[i]]++;
-        }
 
-        for(auto it : mpp){
+            if(count == 0){
+                x = nums[i];
+                count = 1;
+            }
 
-            if(it.second > n/2){
+            else if(nums[i] == x){
+                count++;
+            }
 
-                return it.first;
+            else{
+                count--;
             }
         }
 
+        int cnt = 0;
+
+        for(int i = 0; i < n; i++){
+
+            if(nums[i] == x){
+
+                cnt++;
+            }
+        }
+
+        if(cnt > n/2) return x;
         return -1;
     }
 };
