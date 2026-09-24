@@ -4,13 +4,27 @@ public:
         
         int n = nums.size();
 
-        for(int i = 0; i < n-1; i++){
+        int mid = 0 , low = 0;
+        int high = n - 1;
 
-            for(int j = 0; j < n-1; j++){
+        while(mid <= high){
 
-                if(nums[j+1] < nums[j]){
-                    swap(nums[j+1] , nums[j]);
-                }
+            if(nums[mid] == 0){
+
+                swap(nums[low] , nums[mid]);
+                low++;
+                mid++;
+            }
+
+            else if(nums[mid] == 1){
+
+                mid++;
+            }
+
+            else{
+
+                swap(nums[mid] , nums[high]);
+                high--;
             }
         }
     }
