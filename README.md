@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0389-find-the-difference) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1310-xor-queries-of-a-subarray) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Union-Find
 |  |
 | ------- |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0797-all-paths-from-source-to-target) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Chetanmittal27/leetcode-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |
