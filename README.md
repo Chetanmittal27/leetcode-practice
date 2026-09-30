@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0785-is-graph-bipartite) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0785-is-graph-bipartite) |
