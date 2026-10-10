@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1901-find-a-peak-element-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [1901-find-a-peak-element-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
 |  |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1260-shift-2d-grid) |
+| [1901-find-a-peak-element-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Chetanmittal27/leetcode-practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
 ## Number Theory
