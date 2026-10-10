@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0203-remove-linked-list-elements) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Chetanmittal27/leetcode-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0146-lru-cache](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0229-majority-element-ii) |
@@ -739,4 +741,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
