@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0090-subsets-ii) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Chetanmittal27/leetcode-practice/tree/master/0797-all-paths-from-source-to-target) |
